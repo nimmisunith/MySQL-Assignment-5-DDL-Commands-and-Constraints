@@ -1,1 +1,2 @@
 # MySQL-Assignment-5-DDL-Commands-and-Constraints
+This assignment demonstrates the use of MySQL DDL commands and constraints to create and manage an Employee Database. The project includes creating the database and tables such as Departments, Location, and Employees, modifying table structures using ALTER, renaming tables, and using TRUNCATE and DROP commands. Various constraints including PRIMARY KEY, NOT NULL, UNIQUE, AUTO_INCREMENT, CHECK, DEFAULT, and FOREIGN KEY are also implemented to maintain data integrity and establish relationships between tables.
